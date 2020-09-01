@@ -1,4 +1,4 @@
-#Calculates the max horsepower output of an engine at a certain engine speed
+#Calculates the max horsepower output of an engine based on max engine speed and torque
 
 #initializing variables
 horse_power = 0 
